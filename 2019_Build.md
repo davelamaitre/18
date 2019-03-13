@@ -23,6 +23,7 @@ Hand grips for getting out of car {where to fit and what should they be ?}
 Removable Steering Wheel Boss {WELDED or BOLTED}
 <https://www.ompracing.com/en_gb/car-kart-parts/steering-wheels-accessories/mozzo-sgancio-rapido-saldare.html>
 <https://www.ompracing.com/en_gb/car-kart-parts/steering-wheels-accessories/mozzo-sgancio-rapido-imbullonare.html>
+
 ---
 
 ## EXTERIOR
@@ -53,7 +54,7 @@ Space out second skin on hot areas for drivers feet
 
 ---
 
-## Passanger Side Oil Line Protection
+## Passenger Side Oil Line Protection
 
 Measure {In Cardboard ?}
 Get 2mm aluminium bent to shape
@@ -143,4 +144,4 @@ Corner Weight
 Front Headlights
 Side Indicators
 
---
+---
